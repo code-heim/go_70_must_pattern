@@ -1,0 +1,1 @@
+# go_70_must_pattern
